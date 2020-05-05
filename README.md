@@ -9,5 +9,3 @@
 - [CHSLD et RPA touchés par la COVID19 (5 cas et plus)](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189) données du 04-30
 
 Source:  [MSS, Québec, Révision quotidienne](https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/Tableau-milieux-de-vie-COVID-19.pdf) (Données non disponibles depuis le 2020-04-30)
-
--
