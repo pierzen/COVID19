@@ -1,5 +1,11 @@
 # Données sur l'évolution de l'épidémie de COVID-19
 
+## Québec, Statistiques COVID-19 publiées par l'INSPQ et les autorités régionales de santé
+
+- [INSPQ Données COVID-19 au Québec](https://www.inspq.qc.ca/covid-19/donnees) Mise-à-jour quotidienne ([@INSPQ](https://twitter.com/INSPQ))
+- [INSPQ Données détaillées COVID-19 au Québec ](https://www.inspq.qc.ca/covid-19/donnees/details) Mise-à-jour quotidienne
+- [Santé Montréal](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c36391) Mise-à-jour quotidienne ([@Santepub_Mtl](Santepub_Mtl))
+
 ## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables (CHSLD, RPA, RI) 
 
 ### Ministère de la Santé et des Services Sociaux
@@ -19,11 +25,9 @@
 
 -[Bilan COVID-19 dans la Capitale-Nationale - 11 mai 2020](https://www.ciusss-capitalenationale.gouv.qc.ca/sites/default/files/00-CORONAVIRUS/Communique/2020-05-11_communique_bilan.pdf)
 
-## Carte en ligne, Milieux de vie touchés par la COVID-19, Québec
+### Carte en ligne, Milieux de vie touchés par la COVID-19, Québec
 
 [CHSLD et RPA touchés par la COVID19 au 2020-04-30, 1 résident et plus (Données du 04-30)
 <img align="left" width="500" src="Qc/Carte-Covid-Grand-Mtl-2020-04-30-Liste.jpg">
 ](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189)
-
-
 
