@@ -1,4 +1,4 @@
-# Données sur l'évolution de l'épidémie de COVID19
+# Données sur l'évolution de l'épidémie de COVID-19
 
 ## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables (CHSLD, RPA, RI) 
 
