@@ -21,7 +21,9 @@
 
 ## Carte en ligne, Milieux de vie touchés par la COVI19, Québec
 
-[CHSLD et RPA touchés par la COVID19 au 2020-04-30, 1 résident et plus (Données du 04-30](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189)
+[CHSLD et RPA touchés par la COVID19 au 2020-04-30, 1 résident et plus (Données du 04-30)
 <img align="left" width="500" src="Qc/Carte-Covid-Grand-Mtl-2020-04-30-Liste.jpg">
+](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189)
+
 
 
