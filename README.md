@@ -19,9 +19,11 @@
 
 -[Bilan COVID-19 dans la Capitale-Nationale - 11 mai 2020](https://www.ciusss-capitalenationale.gouv.qc.ca/sites/default/files/00-CORONAVIRUS/Communique/2020-05-11_communique_bilan.pdf)
 
-
 ## Carte en ligne, Milieux de vie touchés par la COVI19, Québec
-<img align="right" width="500" src="Qc/Carte-Covid-Grand-Mtl-2020-04-30-Liste.jpg">
- [CHSLD et RPA touchés par la COVID19 (1 cas et plus)](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189) données du 04-30
 
-Source:  [MSS, Québec](https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/Tableau-milieux-de-vie-COVID-19.pdf) (Archive du 2020-04-30)
+[CHSLD et RPA touchés par la COVID19 au 2020-04-30, 1 résident et plus
+<img align="right" width="500" src="Qc/Carte-Covid-Grand-Mtl-2020-04-30-Liste.jpg">
+](http://umap.openstreetmap.fr/fr/map/liste-des-chsld-et-rpa-touches-par-le-covid-19-ser_445831#10/45.5244/-73.7189)
+<br/>Source:  [MSS, Québec](https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/Tableau-milieux-de-vie-COVID-19.pdf) (Archive du 2020-04-30)
+
+
