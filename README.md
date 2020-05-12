@@ -3,8 +3,8 @@
 ## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables (CHSLD, RPA, RI) 
 
 ### Ministère de la Santé et des Services Sociaux
-**Mise-à-jour quotidienne du 14 au 30 avril, interrompue depuis**
-- [Situation dans les CHSLD et RPA, 2020-04-30 (Archive)](Qc/Tableau-milieux-de-vie-COVID-19-2020-04-30.pdf) MSSS, Québec 
+- [Mise-à-jour quotidienne du 14 au 30 avril, interrompue depuis](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec/#c53630)
+- [Archive MSSS - Situation dans les CHSLD et RPA, 2020-04-30](Qc/Tableau-milieux-de-vie-COVID-19-2020-04-30.pdf) MSSS, Québec 
 
 ### Directions régionales de Santé
 
