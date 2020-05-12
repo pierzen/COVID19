@@ -4,7 +4,13 @@
 
 - [INSPQ Données COVID-19 au Québec](https://www.inspq.qc.ca/covid-19/donnees) Mise-à-jour quotidienne ([@INSPQ](https://twitter.com/INSPQ))
 - [INSPQ Données détaillées COVID-19 au Québec ](https://www.inspq.qc.ca/covid-19/donnees/details) Mise-à-jour quotidienne
-- [Santé Montréal](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c36391) Mise-à-jour quotidienne ([@Santepub_Mtl](Santepub_Mtl))
+- [Santé Montréal](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c36391) Mise-à-jour quotidienne ([@Santepub_Mtl](https://twitter.com/Santepub_Mtl))
+- [Santé Laurentides](http://www.santelaurentides.gouv.qc.ca/nc/sante-publique/maladies-infectieuses/covid-19-coronavirus/situation-dans-les-laurentides/) Mise-à-jour quotidienne ([@CisssL](https://twitter.com/CisssL))
+- [Santé Capitale-nationale](https://www.ciusss-capitalenationale.gouv.qc.ca/)
+- [Santé Bas-Saint-Laurent](https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/etat-de-la-situation) Mise-à-jour quotidienne ([@CISSSBSL](https://twitter.com/CISSSBSL))
+- [Santé Estrie @CIUSSSE_CHUS](https://twitter.com/CIUSSSE_CHUS)
+- [Santé Mauricie-Centre-du-Québec @CIUSSSMCQ](https://twitter.com/CIUSSSMCQ)
+- [Santé Saguenay-Lac-Saint-Jean @CIUSSS_SLSJ](https://twitter.com/CIUSSS_SLSJ)
 
 ## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables (CHSLD, RPA, RI) 
 
