@@ -19,7 +19,7 @@
 
 -[Bilan COVID-19 dans la Capitale-Nationale - 11 mai 2020](https://www.ciusss-capitalenationale.gouv.qc.ca/sites/default/files/00-CORONAVIRUS/Communique/2020-05-11_communique_bilan.pdf)
 
-## Carte en ligne, Milieux de vie touchés par la COVI19, Québec
+## Carte en ligne, Milieux de vie touchés par la COVID-19, Québec
 
 [CHSLD et RPA touchés par la COVID19 au 2020-04-30, 1 résident et plus (Données du 04-30)
 <img align="left" width="500" src="Qc/Carte-Covid-Grand-Mtl-2020-04-30-Liste.jpg">
