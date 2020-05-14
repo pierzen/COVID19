@@ -22,8 +22,9 @@
 ## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables, CHSLD et RPA - Cas actifs et décès  
 *NOTE: Variable Cas cumulatifs absente*
 
-- [Situation dans les CHSLD, 2020-05-12](Qc/État de situation des cas confirmés et des décès COVID-19 par CHSLD, Québec, 12 mai 2020.pdf) Archive MSSS, Québec 
-- [Situation dans les CHSLD, 2020-05-13](Qc/État de situation des cas confirmés et des décès COVID-19 par RPA, Québec, 13 mai 2020.pdf) Archive MSSS, Québec 
+- [Situation dans les CHSLD, 2020-05-12](Qc/%C3%89tat%20de%20situation%20des%20cas%20confirm%C3%A9s%20et%20des%20d%C3%A9c%C3%A8s%20COVID-19%20par%20CHSLD%2C%20Qu%C3%A9bec%2C%2012%20mai%202020.pdf) Archive MSSS, Québec 
+
+- [Situation dans les RPA, 2020-05-13](Qc/%C3%89tat%20de%20situation%20des%20cas%20confirm%C3%A9s%20et%20des%20d%C3%A9c%C3%A8s%20COVID-19%20par%20RPA%2C%20Qu%C3%A9bec%2C%2013%20mai%202020.pdf) Archive MSSS, Québec 
 
 ### Directions régionales de Santé
 
