@@ -6,6 +6,7 @@
 - [INSPQ Données détaillées COVID-19 au Québec ](https://www.inspq.qc.ca/covid-19/donnees/details) Mise-à-jour quotidienne
 - [Santé Montréal](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c36391) Mise-à-jour quotidienne ([@Santepub_Mtl](https://twitter.com/Santepub_Mtl))
 - [Santé Laurentides](http://www.santelaurentides.gouv.qc.ca/nc/sante-publique/maladies-infectieuses/covid-19-coronavirus/situation-dans-les-laurentides/) Mise-à-jour quotidienne ([@CisssL](https://twitter.com/CisssL))
+- [Santé-Lanaudière](http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/nombre-de-cas/) [@CISSSLanaudiere](https://twitter.com/CISSSLanaudiere)
 - [Santé Capitale-nationale](https://www.ciusss-capitalenationale.gouv.qc.ca/)
 - [Santé Bas-Saint-Laurent](https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/etat-de-la-situation) Mise-à-jour quotidienne ([@CISSSBSL](https://twitter.com/CISSSBSL))
 - [Santé Estrie @CIUSSSE_CHUS](https://twitter.com/CIUSSSE_CHUS)
@@ -25,11 +26,13 @@
 
 -[Portrait, 11 mai](http://www.santelaurentides.gouv.qc.ca/fileadmin/internet/cisss_laurentides/Sante_Publique/Maladies_infectieuses/COVID-19/Situation_dans_les_Laurentides/Portrait_quotidien_des_milieux_de_vie_ajuste_en_date_du_11_mai_2020.pdf)
 
-
-**Centre intégré de santé et de services sociaux des Laurentides (CIUSSS-Capitale-nationale)**
+**Centre intégré de santé et de services sociaux Capitale-Nationale (CIUSSS-Capitale-nationale)**
 [COVID-19 Situation dans la Capitale-Nationale](https://www.ciusss-capitalenationale.gouv.qc.ca/)
 
 -[Bilan COVID-19 dans la Capitale-Nationale - 11 mai 2020](https://www.ciusss-capitalenationale.gouv.qc.ca/sites/default/files/00-CORONAVIRUS/Communique/2020-05-11_communique_bilan.pdf)
+
+**Centre intégré de santé et de services sociaux de Lanaudière (CISSS-Lanaudière)**
+- [Santé-Lanaudière Mardi et Vendredi](http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/nombre-de-cas/) [@CISSSLanaudiere](https://twitter.com/CISSSLanaudiere) Voir lien quotidien Milieux de vie
 
 ### Carte en ligne, Milieux de vie touchés par la COVID-19, Québec
 
