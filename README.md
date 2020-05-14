@@ -19,10 +19,11 @@
 - [Mise-à-jour quotidienne du 14 au 30 avril, interrompue depuis](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec/#c53630)
 - [Archive MSSS - Situation dans les CHSLD et RPA, 2020-04-30](Qc/Tableau-milieux-de-vie-COVID-19-2020-04-30.pdf) MSSS, Québec 
 
-## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables (CHSLD) Cas actifs et décès  
-**Variable Cas cumulatifs absente**
+## Québec - Tableaux Situation dans les milieux de vie pour personnes aînées et vulnérables, CHSLD et RPA - Cas actifs et décès  
+*NOTE: Variable Cas cumulatifs absente*
 
-- [Archive MSSS - Situation dans les CHSLD, 2020-05-12](Qc/État de situation des cas confirmés et des décès par CHSLD, Québec, 12 mai 2020.pdf) MSSS, Québec 
+- [Situation dans les CHSLD, 2020-05-12](Qc/État de situation des cas confirmés et des décès COVID-19 par CHSLD, Québec, 12 mai 2020.pdf) Archive MSSS, Québec 
+- [Situation dans les CHSLD, 2020-05-13](Qc/État de situation des cas confirmés et des décès COVID-19 par RPA, Québec, 13 mai 2020.pdf) Archive MSSS, Québec 
 
 ### Directions régionales de Santé
 
