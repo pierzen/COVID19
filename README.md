@@ -2,6 +2,7 @@
 
 ## Québec, Statistiques COVID-19 publiées par l'INSPQ et les autorités régionales de santé
 
+- [Québec - Situation du coronavirus (COVID-19) au Québec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/situation-coronavirus-quebec)
 - [INSPQ Données COVID-19 au Québec](https://www.inspq.qc.ca/covid-19/donnees) Mise-à-jour quotidienne ([@INSPQ](https://twitter.com/INSPQ))
 - [INSPQ Données détaillées COVID-19 au Québec ](https://www.inspq.qc.ca/covid-19/donnees/details) Mise-à-jour quotidienne
 - [Santé Montréal](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c36391) Mise-à-jour quotidienne ([@Santepub_Mtl](https://twitter.com/Santepub_Mtl))
