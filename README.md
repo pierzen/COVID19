@@ -30,7 +30,10 @@
 ### Directions régionales de Santé
 
 **Centre intégré de santé et de services sociaux des Laurentides (CISSSL)**
-[Portrait quotidien des milieux de vie pour personnes aînées et vulnérables](http://www.santelaurentides.gouv.qc.ca/nc/sante-publique/maladies-infectieuses/covid-19-coronavirus/situation-dans-les-laurentides/portrait-quotidien-des-milieux-de-vie-pour-personnes-ainees-et-vulnerables/)
+
+*NOTE : ne publie plus ces tableaux depuis le 13 mai*
+
+- [Portrait quotidien des milieux de vie pour personnes aînées et vulnérables](http://www.santelaurentides.gouv.qc.ca/nc/sante-publique/maladies-infectieuses/covid-19-coronavirus/situation-dans-les-laurentides/portrait-quotidien-des-milieux-de-vie-pour-personnes-ainees-et-vulnerables/)
 
 -[Portrait, 11 mai](http://www.santelaurentides.gouv.qc.ca/fileadmin/internet/cisss_laurentides/Sante_Publique/Maladies_infectieuses/COVID-19/Situation_dans_les_Laurentides/Portrait_quotidien_des_milieux_de_vie_ajuste_en_date_du_11_mai_2020.pdf)
 
